@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Dictionary",
+    "category": "book"
+  },
+  {
+    "_id": 2,
+    "name": "Pen",
+    "category": "stationery"
+  },
+  {
+    "_id": 3,
+    "name": "Mug",
+    "category": "kitchen"
+  },
+  {
+    "_id": 4,
+    "name": "Sketchbook",
+    "category": "stationery"
+  },
+  {
+    "_id": 5,
+    "name": "Lamp",
+    "category": "lighting"
+  },
+  {
+    "_id": 6,
+    "name": "Novel",
+    "category": "book"
+  }
+]

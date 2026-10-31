@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Atlas",
+    "category": "book"
+  },
+  {
+    "_id": 2,
+    "name": "Pen",
+    "category": "stationery"
+  },
+  {
+    "_id": 3,
+    "name": "Novel",
+    "category": "book"
+  },
+  {
+    "_id": 4,
+    "name": "Cup",
+    "category": "kitchen"
+  },
+  {
+    "_id": 5,
+    "name": "Folder",
+    "category": "stationery"
+  },
+  {
+    "_id": 6,
+    "name": "Plate",
+    "category": "kitchen"
+  }
+]

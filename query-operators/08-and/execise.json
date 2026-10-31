@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "name": "Tablet",
+    "status": "active",
+    "category": "electronics"
+  },
+  {
+    "_id": 2,
+    "name": "Camera",
+    "status": "inactive",
+    "category": "electronics"
+  },
+  {
+    "_id": 3,
+    "name": "Radio",
+    "status": "active",
+    "category": "electronics"
+  },
+  {
+    "_id": 4,
+    "name": "Chair",
+    "status": "active",
+    "category": "furniture"
+  },
+  {
+    "_id": 5,
+    "name": "Desk",
+    "status": "inactive",
+    "category": "furniture"
+  },
+  {
+    "_id": 6,
+    "name": "Speaker",
+    "status": "active",
+    "category": "electronics"
+  }
+]

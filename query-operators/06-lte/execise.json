@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "code": "S-101",
+    "deliveryDays": 1
+  },
+  {
+    "_id": 2,
+    "code": "S-102",
+    "deliveryDays": 3
+  },
+  {
+    "_id": 3,
+    "code": "S-103",
+    "deliveryDays": 4
+  },
+  {
+    "_id": 4,
+    "code": "S-104",
+    "deliveryDays": 7
+  },
+  {
+    "_id": 5,
+    "code": "S-105",
+    "deliveryDays": 2
+  },
+  {
+    "_id": 6,
+    "code": "S-106",
+    "deliveryDays": 5
+  }
+]

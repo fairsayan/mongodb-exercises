@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "title": "City Rides",
+    "body": "A bicycle is useful for city travel."
+  },
+  {
+    "_id": 2,
+    "title": "Train Travel",
+    "body": "Train tickets are available online."
+  },
+  {
+    "_id": 3,
+    "title": "Bike Repair",
+    "body": "Repair your bicycle before a long trip."
+  },
+  {
+    "_id": 4,
+    "title": "Walking Paths",
+    "body": "Walk through the city park."
+  },
+  {
+    "_id": 5,
+    "title": "Cycling Safety",
+    "body": "Every bicycle needs working brakes."
+  },
+  {
+    "_id": 6,
+    "title": "Road Maps",
+    "body": "Find roads and landmarks on a map."
+  }
+]

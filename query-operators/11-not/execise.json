@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Pen",
+    "price": 5
+  },
+  {
+    "_id": 2,
+    "name": "Notebook",
+    "price": 50
+  },
+  {
+    "_id": 3,
+    "name": "Headset",
+    "price": 51
+  },
+  {
+    "_id": 4,
+    "name": "Lamp",
+    "price": 40
+  },
+  {
+    "_id": 5,
+    "name": "Monitor",
+    "price": 180
+  },
+  {
+    "_id": 6,
+    "name": "Cable",
+    "price": 12
+  }
+]

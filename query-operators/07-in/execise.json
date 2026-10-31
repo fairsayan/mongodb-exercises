@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Ada",
+    "city": "Rome"
+  },
+  {
+    "_id": 2,
+    "name": "Ben",
+    "city": "Turin"
+  },
+  {
+    "_id": 3,
+    "name": "Cleo",
+    "city": "Milan"
+  },
+  {
+    "_id": 4,
+    "name": "Dan",
+    "city": "Naples"
+  },
+  {
+    "_id": 5,
+    "name": "Eva",
+    "city": "Rome"
+  },
+  {
+    "_id": 6,
+    "name": "Finn",
+    "city": "Bologna"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "name": "Basic Chair",
+    "status": "active",
+    "category": "furniture"
+  },
+  {
+    "_id": 2,
+    "name": "Designer Chair",
+    "status": "active",
+    "category": "luxury"
+  },
+  {
+    "_id": 3,
+    "name": "Old Lamp",
+    "status": "discontinued",
+    "category": "lighting"
+  },
+  {
+    "_id": 4,
+    "name": "Gold Watch",
+    "status": "discontinued",
+    "category": "luxury"
+  },
+  {
+    "_id": 5,
+    "name": "Water Bottle",
+    "status": "active",
+    "category": "outdoors"
+  },
+  {
+    "_id": 6,
+    "name": "Desk",
+    "status": "active",
+    "category": "furniture"
+  }
+]

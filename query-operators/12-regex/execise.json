@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Projector",
+    "category": "office"
+  },
+  {
+    "_id": 2,
+    "name": "protractor",
+    "category": "stationery"
+  },
+  {
+    "_id": 3,
+    "name": "PRO Camera",
+    "category": "electronics"
+  },
+  {
+    "_id": 4,
+    "name": "Approach Guide",
+    "category": "book"
+  },
+  {
+    "_id": 5,
+    "name": "Profile Frame",
+    "category": "decor"
+  },
+  {
+    "_id": 6,
+    "name": "Microphone",
+    "category": "electronics"
+  }
+]

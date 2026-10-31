@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "name": "Cable",
+    "stock": 5,
+    "unitPrice": 20
+  },
+  {
+    "_id": 2,
+    "name": "Mouse",
+    "stock": 6,
+    "unitPrice": 20
+  },
+  {
+    "_id": 3,
+    "name": "Keyboard",
+    "stock": 4,
+    "unitPrice": 30
+  },
+  {
+    "_id": 4,
+    "name": "Monitor",
+    "stock": 1,
+    "unitPrice": 90
+  },
+  {
+    "_id": 5,
+    "name": "Webcam",
+    "stock": 9,
+    "unitPrice": 10
+  },
+  {
+    "_id": 6,
+    "name": "Headset",
+    "stock": 3,
+    "unitPrice": 40
+  }
+]

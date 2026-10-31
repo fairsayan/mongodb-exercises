@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Notebook",
+    "status": "shipped"
+  },
+  {
+    "_id": 2,
+    "name": "Pencil",
+    "status": "pending"
+  },
+  {
+    "_id": 3,
+    "name": "Lamp",
+    "status": "shipped"
+  },
+  {
+    "_id": 4,
+    "name": "Mug",
+    "status": "cancelled"
+  },
+  {
+    "_id": 5,
+    "name": "Backpack",
+    "status": "pending"
+  },
+  {
+    "_id": 6,
+    "name": "Mouse",
+    "status": "shipped"
+  }
+]
