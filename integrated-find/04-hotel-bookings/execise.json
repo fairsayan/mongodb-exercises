@@ -1,0 +1,13 @@
+[
+  { "_id": 1, "guest": { "name": "Nora", "preferences": ["quiet", "view"] }, "status": "confirmed", "stay": { "city": "Rome", "nights": 4, "total": 480, "room": { "type": "double", "amenities": ["wifi", "breakfast", "desk"] } } },
+  { "_id": 2, "guest": { "name": "Omar", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Turin", "nights": 3, "total": 360, "room": { "type": "single", "amenities": ["breakfast", "wifi"] } } },
+  { "_id": 3, "guest": { "name": "Pia", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Rome", "nights": 2, "total": 200, "room": { "type": "single", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 4, "guest": { "name": "Quinn", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Milan", "nights": 5, "total": 500, "room": { "type": "double", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 5, "guest": { "name": "Rosa", "preferences": ["quiet"] }, "status": "cancelled", "stay": { "city": "Rome", "nights": 4, "total": 420, "room": { "type": "double", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 6, "guest": { "name": "Sam", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Turin", "nights": 5, "total": 650, "room": { "type": "suite", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 7, "guest": { "name": "Tina", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Rome", "nights": 3, "total": 300, "room": { "type": "single", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 8, "guest": { "name": "Ugo", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Turin", "nights": 4, "total": 440, "room": { "type": "double", "amenities": ["wifi", "desk"] } } },
+  { "_id": 9, "guest": { "name": "Vera", "preferences": ["quiet", "view"] }, "status": "confirmed", "stay": { "city": "Rome", "nights": 3, "total": 360, "room": { "type": "double", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 10, "guest": { "name": "Will", "preferences": ["view"] }, "status": "confirmed", "stay": { "city": "Turin", "nights": 3, "total": 360, "room": { "type": "double", "amenities": ["wifi", "breakfast"] } } },
+  { "_id": 11, "guest": { "name": "Xena", "preferences": ["quiet"] }, "status": "confirmed", "stay": { "city": "Turin", "nights": 4, "total": 520, "room": { "type": "suite", "amenities": ["wifi", "breakfast", "desk"] } } }
+]

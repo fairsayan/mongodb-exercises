@@ -13,3 +13,11 @@ The query should return exactly these documents, in this order:
 - `1` — Eraser
 - `2` — Notebook
 - `5` — Marker
+
+## Solution
+
+```javascript
+db.items.find({ price: { $lt: 25 } }).sort({ _id: 1 })
+```
+
+`$lt` excludes the product priced exactly `25`.

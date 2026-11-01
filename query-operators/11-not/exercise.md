@@ -14,3 +14,11 @@ The query should return exactly these documents, in this order:
 - `2` — Notebook
 - `4` — Lamp
 - `6` — Cable
+
+## Solution
+
+```javascript
+db.items.find({ price: { $not: { $gt: 50 } } }).sort({ _id: 1 })
+```
+
+`$not` negates the greater-than condition, so a price of `50` is included.

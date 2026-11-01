@@ -17,3 +17,15 @@ The query should return exactly these documents, in this order:
 - `1` — City Rides
 - `3` — Bike Repair
 - `5` — Cycling Safety
+
+## Solution
+
+```javascript
+db.items.createIndex({ body: "text" })
+
+db.items.find({
+  $text: { $search: "bicycle" }
+}).sort({ _id: 1 })
+```
+
+The text index is required for `$text` to search the `body` field.

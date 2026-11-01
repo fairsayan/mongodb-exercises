@@ -1,0 +1,11 @@
+[
+  { "_id": 1, "customer": { "name": "Ada", "location": { "city": "Rome", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-11", "category": "electronics", "quantity": 2 }, { "sku": "B-12", "category": "books", "quantity": 1 }], "total": 180 },
+  { "_id": 2, "customer": { "name": "Ben", "location": { "city": "Milan", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-13", "category": "electronics", "quantity": 1 }, { "sku": "B-14", "category": "books", "quantity": 3 }], "total": 220 },
+  { "_id": 3, "customer": { "name": "Cleo", "location": { "city": "Rome", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-15", "category": "electronics", "quantity": 3 }], "total": 150 },
+  { "_id": 4, "customer": { "name": "Dan", "location": { "city": "Turin", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-16", "category": "electronics", "quantity": 2 }], "total": 200 },
+  { "_id": 5, "customer": { "name": "Eva", "location": { "city": "Milan", "country": "Italy" } }, "status": "pending", "items": [{ "sku": "E-17", "category": "electronics", "quantity": 4 }], "total": 300 },
+  { "_id": 6, "customer": { "name": "Finn", "location": { "city": "Milan", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-18", "category": "electronics", "quantity": 2 }], "total": 110 },
+  { "_id": 7, "customer": { "name": "Gia", "location": { "city": "Rome", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-19", "category": "electronics", "quantity": 2 }], "total": 250 },
+  { "_id": 8, "customer": { "name": "Hana", "location": { "city": "Milan", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-20", "category": "electronics", "quantity": 2 }], "total": 160 },
+  { "_id": 9, "customer": { "name": "Ivan", "location": { "city": "Rome", "country": "Italy" } }, "status": "active", "items": [{ "sku": "E-21", "category": "electronics", "quantity": 2 }], "total": 90 }
+]

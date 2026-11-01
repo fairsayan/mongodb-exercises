@@ -1,0 +1,12 @@
+[
+  { "_id": 1, "name": "Sensor", "status": "active", "warehouse": { "city": "Rome", "bins": [{ "zone": "A", "quantity": 4 }, { "zone": "B", "quantity": 2 }] }, "stock": 10, "reserved": 3 },
+  { "_id": 2, "name": "Router", "status": "active", "warehouse": { "city": "Rome", "bins": [{ "zone": "A", "quantity": 2 }, { "zone": "B", "quantity": 5 }] }, "stock": 12, "reserved": 2 },
+  { "_id": 3, "name": "Switch", "status": "active", "warehouse": { "city": "Turin", "bins": [{ "zone": "A", "quantity": 3 }] }, "stock": 8, "reserved": 4 },
+  { "_id": 4, "name": "Camera", "status": "inactive", "warehouse": { "city": "Rome", "bins": [{ "zone": "A", "quantity": 5 }] }, "stock": 15, "reserved": 1 },
+  { "_id": 5, "name": "Cable", "status": "active", "warehouse": { "city": "Milan", "bins": [{ "zone": "A", "quantity": 8 }] }, "stock": 20, "reserved": 0 },
+  { "_id": 6, "name": "Hub", "status": "active", "warehouse": { "city": "Turin", "bins": [{ "zone": "A", "quantity": 4 }] }, "stock": 9, "reserved": 2 },
+  { "_id": 7, "name": "Modem", "status": "active", "warehouse": { "city": "Rome", "bins": [{ "zone": "A", "quantity": 3 }] }, "stock": 5, "reserved": 0 },
+  { "_id": 8, "name": "Adapter", "status": "active", "warehouse": { "city": "Turin", "bins": [{ "zone": "A", "quantity": 6 }] }, "stock": 7, "reserved": 1 },
+  { "_id": 9, "name": "Dock", "status": "active", "warehouse": { "city": "Rome", "bins": [{ "zone": "A", "quantity": 4 }] }, "stock": 6, "reserved": 2 },
+  { "_id": 10, "name": "Receiver", "status": "active", "warehouse": { "city": "Turin", "bins": [{ "zone": "A", "quantity": 2 }, { "zone": "B", "quantity": 10 }] }, "stock": 10, "reserved": 0 }
+]

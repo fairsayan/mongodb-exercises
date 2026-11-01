@@ -1,0 +1,11 @@
+[
+  { "_id": 1, "title": "Data Modeling", "type": "seminar", "status": "scheduled", "price": 30, "seats": 40, "startDay": 12, "venue": { "name": "Central Hall", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 2, "title": "Workshop Queries", "type": "workshop", "status": "scheduled", "price": 20, "seats": 15, "startDay": 10, "venue": { "name": "North Room", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 3, "title": "Data Analytics", "type": "seminar", "status": "cancelled", "price": 30, "seats": 20, "startDay": 14, "venue": { "name": "West Hall", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 4, "title": "Index Lab", "type": "workshop", "status": "scheduled", "price": 40, "seats": 25, "startDay": 9, "venue": { "name": "East Room", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 5, "title": "Data Basics", "type": "seminar", "status": "scheduled", "price": 20, "seats": 10, "startDay": 11, "venue": { "name": "Market Hall", "address": { "city": "Milan", "country": "Italy" } } },
+  { "_id": 6, "title": "Query Practice", "type": "workshop", "status": "scheduled", "price": 45, "seats": 20, "startDay": 13, "venue": { "name": "South Room", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 7, "title": "Data Architecture", "type": "seminar", "status": "scheduled", "price": 49, "seats": 60, "startDay": 8, "venue": { "name": "Main Hall", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 8, "title": "Data Security", "type": "seminar", "status": "scheduled", "price": 50, "seats": 10, "startDay": 7, "venue": { "name": "Main Hall", "address": { "city": "Rome", "country": "Italy" } } },
+  { "_id": 9, "title": "Query Clinic", "type": "workshop", "status": "scheduled", "price": 35, "seats": 5, "startDay": 15, "venue": { "name": "North Room", "address": { "city": "Rome", "country": "Italy" } } }
+]

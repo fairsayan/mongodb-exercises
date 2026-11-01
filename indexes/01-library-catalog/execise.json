@@ -1,0 +1,11 @@
+[
+  { "_id": 1, "title": "MongoDB Essentials", "summary": "Learn MongoDB queries with practical examples.", "available": true, "rating": 4.8, "metadata": { "edition": 1, "topics": ["queries", "modeling"] } },
+  { "_id": 2, "title": "Query Patterns", "summary": "Practical MongoDB query patterns for developers.", "available": true, "rating": 4.9, "metadata": { "edition": 2, "topics": ["queries"] } },
+  { "_id": 3, "title": "Index Handbook", "summary": "Build MongoDB indexes for frequent searches.", "available": true, "rating": 4.6, "metadata": { "edition": 2, "topics": ["indexes", "performance"] } },
+  { "_id": 4, "title": "Old Guide", "summary": "A MongoDB reference for beginners.", "available": true, "rating": 4.7, "metadata": { "edition": 3, "topics": ["queries"] } },
+  { "_id": 5, "title": "Offline Guide", "summary": "MongoDB queries in the field.", "available": false, "rating": 4.7, "metadata": { "edition": 1, "topics": ["queries"] } },
+  { "_id": 6, "title": "Data Modeling", "summary": "Design MongoDB document models.", "available": true, "rating": 4.8, "metadata": { "edition": 2, "topics": ["modeling"] } },
+  { "_id": 7, "title": "Database Basics", "summary": "Learn SQL queries with practical examples.", "available": true, "rating": 4.9, "metadata": { "edition": 1, "topics": ["queries"] } },
+  { "_id": 8, "title": "Advanced MongoDB", "summary": "Explore MongoDB query design in depth.", "available": true, "rating": 4.5, "metadata": { "edition": 1, "topics": ["queries", "indexes"] } },
+  { "_id": 9, "title": "MongoDB Starter", "summary": "Start learning MongoDB today.", "available": true, "rating": 3.9, "metadata": { "edition": 1, "topics": ["queries"] } }
+]

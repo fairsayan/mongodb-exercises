@@ -14,3 +14,13 @@ The query should return exactly these documents, in this order:
 - `2` — protractor
 - `3` — PRO Camera
 - `5` — Profile Frame
+
+## Solution
+
+```javascript
+db.items.find({
+  name: { $regex: "^Pro", $options: "i" }
+}).sort({ _id: 1 })
+```
+
+`^` anchors the pattern to the start of the name, and `i` makes it case-insensitive.

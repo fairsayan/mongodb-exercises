@@ -14,3 +14,11 @@ The query should return exactly these documents, in this order:
 - `4` — Cup
 - `5` — Folder
 - `6` — Plate
+
+## Solution
+
+```javascript
+db.items.find({ category: { $ne: "book" } }).sort({ _id: 1 })
+```
+
+`$ne` excludes products in the `book` category.

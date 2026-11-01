@@ -13,3 +13,16 @@ The query should return exactly these documents, in this order:
 - `1` — Basic Chair
 - `5` — Water Bottle
 - `6` — Desk
+
+## Solution
+
+```javascript
+db.items.find({
+  $nor: [
+    { status: "discontinued" },
+    { category: "luxury" }
+  ]
+}).sort({ _id: 1 })
+```
+
+`$nor` returns products that satisfy neither excluded condition.

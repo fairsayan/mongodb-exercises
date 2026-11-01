@@ -13,3 +13,11 @@ The query should return exactly these documents, in this order:
 - `3` — Keyboard
 - `4` — Monitor
 - `6` — Webcam
+
+## Solution
+
+```javascript
+db.items.find({ stock: { $gt: 10 } }).sort({ _id: 1 })
+```
+
+`$gt` excludes the product whose stock is exactly `10`.

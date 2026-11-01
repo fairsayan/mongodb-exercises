@@ -13,3 +13,11 @@ The query should return exactly these documents, in this order:
 - `2` — Data Modeling
 - `3` — Aggregation
 - `5` — Replication
+
+## Solution
+
+```javascript
+db.items.find({ rating: { $gte: 4.5 } }).sort({ _id: 1 })
+```
+
+`$gte` includes the course rated exactly `4.5`.

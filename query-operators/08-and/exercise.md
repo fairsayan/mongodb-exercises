@@ -13,3 +13,16 @@ The query should return exactly these documents, in this order:
 - `1` — Tablet
 - `3` — Radio
 - `6` — Speaker
+
+## Solution
+
+```javascript
+db.items.find({
+  $and: [
+    { status: "active" },
+    { category: "electronics" }
+  ]
+}).sort({ _id: 1 })
+```
+
+`$and` requires both conditions to be true for the same product.

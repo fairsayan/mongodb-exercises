@@ -1,0 +1,12 @@
+[
+  { "_id": 1, "title": "Router", "status": "open", "priority": "high", "responseMinutes": 20, "asset": { "site": { "region": "North", "rooms": ["N1", "N2"] } }, "updates": [{ "state": "triaged", "agent": "Ada" }] },
+  { "_id": 2, "title": "Printer", "status": "open", "priority": "medium", "responseMinutes": 45, "asset": { "site": { "region": "North", "rooms": ["N3"] } }, "updates": [{ "state": "investigating", "agent": "Ben" }] },
+  { "_id": 3, "title": "Server", "status": "closed", "priority": "high", "responseMinutes": 10, "asset": { "site": { "region": "North", "rooms": ["N4"] } }, "updates": [{ "state": "triaged", "agent": "Cleo" }] },
+  { "_id": 4, "title": "Scanner", "status": "open", "priority": "low", "responseMinutes": 30, "asset": { "site": { "region": "North", "rooms": ["N5"] } }, "updates": [{ "state": "investigating", "agent": "Dan" }] },
+  { "_id": 5, "title": "Laptop", "status": "open", "priority": "high", "responseMinutes": 60, "asset": { "site": { "region": "North", "rooms": ["N6"] } }, "updates": [{ "state": "investigating", "agent": "Eva" }] },
+  { "_id": 6, "title": "Tablet", "status": "open", "priority": "high", "responseMinutes": 15, "asset": { "site": { "region": "South", "rooms": ["S1"] } }, "updates": [{ "state": "triaged", "agent": "Finn" }] },
+  { "_id": 7, "title": "Switch", "status": "open", "priority": "medium", "responseMinutes": 55, "asset": { "site": { "region": "North", "rooms": ["N7"] } }, "updates": [{ "state": "triaged", "agent": "Gia" }, { "state": "resolved", "agent": "Gia" }] },
+  { "_id": 8, "title": "Firewall", "status": "open", "priority": "high", "responseMinutes": 35, "asset": { "site": { "region": "North", "rooms": ["N8"] } }, "updates": [{ "state": "investigating", "agent": "Hana" }] },
+  { "_id": 9, "title": "Camera", "status": "open", "priority": "high", "responseMinutes": 75, "asset": { "site": { "region": "North", "rooms": ["N9"] } }, "updates": [{ "state": "triaged", "agent": "Ivan" }] },
+  { "_id": 10, "title": "Phone", "status": "open", "priority": "medium", "responseMinutes": 50, "asset": { "site": { "region": "North", "rooms": ["N10"] } }, "updates": [{ "state": "triaged", "agent": "Jo" }] }
+]

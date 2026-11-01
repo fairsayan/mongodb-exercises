@@ -14,3 +14,16 @@ The query should return exactly these documents, in this order:
 - `2` — Pen
 - `4` — Sketchbook
 - `6` — Novel
+
+## Solution
+
+```javascript
+db.items.find({
+  $or: [
+    { category: "book" },
+    { category: "stationery" }
+  ]
+}).sort({ _id: 1 })
+```
+
+`$or` accepts a product in either category.

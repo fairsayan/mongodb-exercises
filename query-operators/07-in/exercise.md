@@ -13,3 +13,11 @@ The query should return exactly these documents, in this order:
 - `1` — Ada
 - `3` — Cleo
 - `5` — Eva
+
+## Solution
+
+```javascript
+db.items.find({ city: { $in: ["Rome", "Milan"] } }).sort({ _id: 1 })
+```
+
+`$in` matches either of the two listed cities.

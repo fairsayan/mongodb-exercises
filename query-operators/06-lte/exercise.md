@@ -13,3 +13,11 @@ The query should return exactly these documents, in this order:
 - `1` — S-101
 - `2` — S-102
 - `5` — S-105
+
+## Solution
+
+```javascript
+db.items.find({ deliveryDays: { $lte: 3 } }).sort({ _id: 1 })
+```
+
+`$lte` includes the shipment delivered in exactly `3` days.
