@@ -1,0 +1,55 @@
+// Run from the repository root with mongosh --file (see README.md).
+// Uses the dedicated practice database. Replaces only the collections listed below.
+db = db.getSiblingDB("aggregation_practice");
+db.items.drop();
+db.items.insertMany([
+  {
+    "_id": 1,
+    "name": "Keyboard",
+    "category": "electronics",
+    "active": true,
+    "price": 80
+  },
+  {
+    "_id": 2,
+    "name": "Monitor",
+    "category": "electronics",
+    "active": true,
+    "price": 200
+  },
+  {
+    "_id": 3,
+    "name": "Desk",
+    "category": "furniture",
+    "active": true,
+    "price": 150
+  },
+  {
+    "_id": 4,
+    "name": "Mouse",
+    "category": "electronics",
+    "active": true,
+    "price": 25
+  },
+  {
+    "_id": 5,
+    "name": "Webcam",
+    "category": "electronics",
+    "active": false,
+    "price": 100
+  },
+  {
+    "_id": 6,
+    "name": "Headphones",
+    "category": "electronics",
+    "active": true,
+    "price": 80
+  },
+  {
+    "_id": 7,
+    "name": "Dock",
+    "category": "electronics",
+    "active": true,
+    "price": 50
+  }
+]);

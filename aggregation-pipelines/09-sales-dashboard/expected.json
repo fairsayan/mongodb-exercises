@@ -1,0 +1,62 @@
+[
+  {
+    "summary": [
+      {
+        "orderCount": 6,
+        "revenue": 700,
+        "averageOrder": 116.67
+      }
+    ],
+    "byCategory": [
+      {
+        "category": "electronics",
+        "orderCount": 2,
+        "revenue": 300
+      },
+      {
+        "category": "home",
+        "orderCount": 2,
+        "revenue": 300
+      },
+      {
+        "category": "books",
+        "orderCount": 2,
+        "revenue": 100
+      }
+    ],
+    "priceBands": [
+      {
+        "band": 0,
+        "orderCount": 1,
+        "revenue": 40
+      },
+      {
+        "band": 50,
+        "orderCount": 2,
+        "revenue": 110
+      },
+      {
+        "band": 100,
+        "orderCount": 1,
+        "revenue": 100
+      },
+      {
+        "band": "200+",
+        "orderCount": 2,
+        "revenue": 450
+      }
+    ],
+    "page": [
+      {
+        "_id": 3,
+        "category": "electronics",
+        "total": 100
+      },
+      {
+        "_id": 2,
+        "category": "books",
+        "total": 60
+      }
+    ]
+  }
+]

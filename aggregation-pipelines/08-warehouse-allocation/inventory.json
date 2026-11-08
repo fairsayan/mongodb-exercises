@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "sku": "A",
+    "country": "IT",
+    "warehouse": "Rome",
+    "stock": 8,
+    "shippingCost": 4
+  },
+  {
+    "_id": 2,
+    "sku": "A",
+    "country": "IT",
+    "warehouse": "Milan",
+    "stock": 10,
+    "shippingCost": 4
+  },
+  {
+    "_id": 3,
+    "sku": "A",
+    "country": "IT",
+    "warehouse": "Turin",
+    "stock": 3,
+    "shippingCost": 1
+  },
+  {
+    "_id": 4,
+    "sku": "A",
+    "country": "FR",
+    "warehouse": "Paris",
+    "stock": 50,
+    "shippingCost": 2
+  },
+  {
+    "_id": 5,
+    "sku": "B",
+    "country": "IT",
+    "warehouse": "Bologna",
+    "stock": 2,
+    "shippingCost": 3
+  },
+  {
+    "_id": 6,
+    "sku": "B",
+    "country": "IT",
+    "warehouse": "Genoa",
+    "stock": 5,
+    "shippingCost": 6
+  }
+]

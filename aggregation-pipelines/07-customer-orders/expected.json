@@ -1,0 +1,32 @@
+[
+  {
+    "orderId": 2,
+    "customerName": "Ben",
+    "city": "N/A",
+    "total": 120
+  },
+  {
+    "orderId": 1,
+    "customerName": "Ada",
+    "city": "Rome",
+    "total": 90
+  },
+  {
+    "orderId": 3,
+    "customerName": "Unknown",
+    "city": "N/A",
+    "total": 70
+  },
+  {
+    "orderId": 6,
+    "customerName": "Unknown",
+    "city": "N/A",
+    "total": 40
+  },
+  {
+    "orderId": 5,
+    "customerName": "Ada",
+    "city": "Rome",
+    "total": 30
+  }
+]

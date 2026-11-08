@@ -1,0 +1,52 @@
+[
+  {
+    "_id": 5,
+    "customer": "Eva",
+    "selectedLines": [
+      {
+        "sku": "E",
+        "lineTotal": 100
+      }
+    ],
+    "basketTotal": 100
+  },
+  {
+    "_id": 1,
+    "customer": "Ada",
+    "selectedLines": [
+      {
+        "sku": "A",
+        "lineTotal": 40
+      },
+      {
+        "sku": "C",
+        "lineTotal": 30
+      }
+    ],
+    "basketTotal": 70
+  },
+  {
+    "_id": 2,
+    "customer": "Ben",
+    "selectedLines": [],
+    "basketTotal": 0
+  },
+  {
+    "_id": 3,
+    "customer": "Cleo",
+    "selectedLines": [],
+    "basketTotal": 0
+  },
+  {
+    "_id": 4,
+    "customer": "Dan",
+    "selectedLines": [],
+    "basketTotal": 0
+  },
+  {
+    "_id": 6,
+    "customer": "Finn",
+    "selectedLines": [],
+    "basketTotal": 0
+  }
+]

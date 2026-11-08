@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 2,
+    "customer": "Ben",
+    "subtotal": 75,
+    "netTotal": 75
+  },
+  {
+    "_id": 1,
+    "customer": "Ada",
+    "subtotal": 80,
+    "netTotal": 72
+  },
+  {
+    "_id": 4,
+    "customer": "Dan",
+    "subtotal": 70,
+    "netTotal": 70
+  }
+]

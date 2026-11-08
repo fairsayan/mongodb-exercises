@@ -1,0 +1,26 @@
+[
+  {
+    "month": "2025-01",
+    "channel": "web",
+    "orderCount": 1,
+    "revenue": 40
+  },
+  {
+    "month": "2025-02",
+    "channel": "web",
+    "orderCount": 2,
+    "revenue": 160
+  },
+  {
+    "month": "2025-02",
+    "channel": "store",
+    "orderCount": 1,
+    "revenue": 50
+  },
+  {
+    "month": "2025-03",
+    "channel": "store",
+    "orderCount": 1,
+    "revenue": 90
+  }
+]

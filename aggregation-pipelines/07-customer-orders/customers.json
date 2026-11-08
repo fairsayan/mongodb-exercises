@@ -1,0 +1,22 @@
+[
+  {
+    "_id": 101,
+    "name": "Ada",
+    "city": "Rome"
+  },
+  {
+    "_id": 102,
+    "name": "Ben",
+    "city": null
+  },
+  {
+    "_id": 103,
+    "name": "Cleo",
+    "city": "Milan"
+  },
+  {
+    "_id": 104,
+    "name": "Dan",
+    "city": "Turin"
+  }
+]

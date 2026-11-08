@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 2,
+    "name": "Monitor",
+    "price": 200
+  },
+  {
+    "_id": 1,
+    "name": "Keyboard",
+    "price": 80
+  },
+  {
+    "_id": 6,
+    "name": "Headphones",
+    "price": 80
+  }
+]

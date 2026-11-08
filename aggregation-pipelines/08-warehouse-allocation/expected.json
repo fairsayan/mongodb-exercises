@@ -1,0 +1,37 @@
+[
+  {
+    "orderId": 1,
+    "sku": "A",
+    "quantity": 5,
+    "warehouse": "Rome",
+    "shippingCost": 4
+  },
+  {
+    "orderId": 2,
+    "sku": "A",
+    "quantity": 12,
+    "warehouse": "unavailable",
+    "shippingCost": null
+  },
+  {
+    "orderId": 3,
+    "sku": "B",
+    "quantity": 2,
+    "warehouse": "Bologna",
+    "shippingCost": 3
+  },
+  {
+    "orderId": 4,
+    "sku": "C",
+    "quantity": 1,
+    "warehouse": "unavailable",
+    "shippingCost": null
+  },
+  {
+    "orderId": 5,
+    "sku": "A",
+    "quantity": 4,
+    "warehouse": "Paris",
+    "shippingCost": 2
+  }
+]

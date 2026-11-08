@@ -1,8 +1,8 @@
 # MongoDB Exercises
 
-This repository contains hands-on MongoDB exercises. The `query-operators` folder has one exercise per query operator. The `integrated-find` folder has five exercises that combine filters on nested documents and arrays with sorting, pagination, and projections. All exercises use `find()`; none require aggregation pipelines.
+This repository contains hands-on MongoDB exercises. The `query-operators` folder has one exercise per query operator. The `integrated-find` folder has five exercises that combine filters on nested documents and arrays with sorting, pagination, and projections. These two folders use `find()`. The `aggregation-pipelines` folder adds ten bilingual exercises with progressively harder aggregation pipelines, datasets, expected results, and executable solutions.
 
-## How to use an exercise
+## How to use a find exercise
 
 1. Open an exercise folder and read `exercise.md`.
 2. Copy the entire JSON array from `execise.json` and paste it into `db.items.insertMany(...)` in `mongosh`, replacing `...` with the array. Use a fresh database or run `db.items.drop()` before loading another exercise.
@@ -22,3 +22,7 @@ Each `execise.json` file is a valid JSON array. The filename is intentionally sp
 ## Index exercises
 
 The [first index exercise](indexes/01-library-catalog/exercise.md) covers text search and creating the text index it requires. Work through it when the course reaches indexes.
+
+## Aggregation pipeline exercises
+
+The [aggregation learning path](aggregation-pipelines/README.md) contains ten exercises with English and Italian tasks, from filtering and projections to joins, faceted reports, and window calculations. Each folder includes `execise.json`, `exercise.md`, `setup.js`, `solution.js`, and `expected.json`; join exercises also include supporting collection datasets. Follow the series README for setup and verification instructions. MongoDB 5.0 or newer and `mongosh` are required for the full series.

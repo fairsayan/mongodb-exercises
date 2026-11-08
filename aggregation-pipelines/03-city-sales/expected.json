@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Rome",
+    "orderCount": 3,
+    "revenue": 450,
+    "averageOrder": 150,
+    "largeOrders": 2
+  },
+  {
+    "city": "Milan",
+    "orderCount": 2,
+    "revenue": 200,
+    "averageOrder": 100,
+    "largeOrders": 0
+  }
+]

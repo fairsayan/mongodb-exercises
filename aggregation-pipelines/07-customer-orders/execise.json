@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "customerId": 101,
+    "status": "paid",
+    "total": 90
+  },
+  {
+    "_id": 2,
+    "customerId": 102,
+    "status": "paid",
+    "total": 120
+  },
+  {
+    "_id": 3,
+    "customerId": 999,
+    "status": "paid",
+    "total": 70
+  },
+  {
+    "_id": 4,
+    "customerId": 103,
+    "status": "cancelled",
+    "total": 500
+  },
+  {
+    "_id": 5,
+    "customerId": 101,
+    "status": "paid",
+    "total": 30
+  },
+  {
+    "_id": 6,
+    "status": "paid",
+    "total": 40
+  }
+]

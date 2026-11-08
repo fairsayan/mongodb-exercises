@@ -1,0 +1,56 @@
+[
+  {
+    "store": "Milan",
+    "day": "2025-03-01",
+    "orderCount": 1,
+    "dailyRevenue": 10,
+    "cumulativeRevenue": 10,
+    "movingAverage": 10,
+    "revenueRank": 2
+  },
+  {
+    "store": "Milan",
+    "day": "2025-03-03",
+    "orderCount": 1,
+    "dailyRevenue": 20,
+    "cumulativeRevenue": 30,
+    "movingAverage": 15,
+    "revenueRank": 1
+  },
+  {
+    "store": "Milan",
+    "day": "2025-03-04",
+    "orderCount": 1,
+    "dailyRevenue": 20,
+    "cumulativeRevenue": 50,
+    "movingAverage": 20,
+    "revenueRank": 1
+  },
+  {
+    "store": "Rome",
+    "day": "2025-03-01",
+    "orderCount": 2,
+    "dailyRevenue": 50,
+    "cumulativeRevenue": 50,
+    "movingAverage": 50,
+    "revenueRank": 2
+  },
+  {
+    "store": "Rome",
+    "day": "2025-03-02",
+    "orderCount": 1,
+    "dailyRevenue": 40,
+    "cumulativeRevenue": 90,
+    "movingAverage": 45,
+    "revenueRank": 3
+  },
+  {
+    "store": "Rome",
+    "day": "2025-03-04",
+    "orderCount": 1,
+    "dailyRevenue": 60,
+    "cumulativeRevenue": 150,
+    "movingAverage": 50,
+    "revenueRank": 1
+  }
+]

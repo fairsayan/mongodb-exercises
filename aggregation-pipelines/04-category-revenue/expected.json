@@ -1,0 +1,20 @@
+[
+  {
+    "category": "electronics",
+    "units": 3,
+    "revenue": 220,
+    "orderCount": 2
+  },
+  {
+    "category": "books",
+    "units": 6,
+    "revenue": 80,
+    "orderCount": 2
+  },
+  {
+    "category": "home",
+    "units": 2,
+    "revenue": 50,
+    "orderCount": 1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 101,
+    "sku": "A",
+    "name": "Notebook",
+    "unitPrice": 10
+  },
+  {
+    "_id": 102,
+    "sku": "B",
+    "name": "Lamp",
+    "unitPrice": 20
+  },
+  {
+    "_id": 103,
+    "sku": "C",
+    "name": "Mouse",
+    "unitPrice": 30
+  }
+]
